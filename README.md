@@ -1,6 +1,6 @@
 # Stream-Cardioide
 
-Repo que contiene el código del streaming en que sacamos creamos un cardioide animado
+Repo que contiene el código del streaming en que creamos un cardioide animado
 
 Este es el código que se usó en el directo del [canal de Twitch de MrVizious](https://www.twitch.tv/mrvizious).
 
